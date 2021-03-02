@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "956566487262",
+    "project_id": "envanto-d948e",
+    "storage_bucket": "envanto-d948e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956566487262:android:5fcf2d8dff712ca7fd024f",
+        "android_client_info": {
+          "package_name": "com.example.envanto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956566487262-t6gf2on23lqi36999e775c8isjaib6ng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.envanto",
+            "certificate_hash": "bbdff8932051f70bb7b7a935e64b798a8249cac9"
+          }
+        },
+        {
+          "client_id": "956566487262-sta2aj2bt2f2iumrb0dq30l4b49vst77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd4tEsSwToc2A4wgyNOuwfu5eDyrVb1tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956566487262-sta2aj2bt2f2iumrb0dq30l4b49vst77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
